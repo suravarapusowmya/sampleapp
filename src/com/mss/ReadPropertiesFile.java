@@ -3,7 +3,6 @@
  * and open the template in the editor.
  */
 package com.mss;
-jtfhyjgkugfyjug
 import java.io.FileInputStream;
 import java.io.IOException;
 import java.io.InputStream;

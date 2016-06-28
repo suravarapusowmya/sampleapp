@@ -40,7 +40,8 @@ public class ReadPropertiesFile {
 
         }
     }
-
+//wat commit
+    //commmit
     public static void main(String[] args) {
         ReadPropertiesFile rpf = new ReadPropertiesFile();
         rpf.readPropertiesFile();
